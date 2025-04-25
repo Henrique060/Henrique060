@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hey there!
 
-<!--
-**Henrique060/Henrique060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science and multimedia engineer with a focus in AI, Data Science and Front-End Development. 
 
-Here are some ideas to get you started:
+I also have expertise in Game Development, 3D Modelling and App Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience in:
+ - Web Development/Design (Full Stack)
+ - 3D Modelling and Game Development (Blender and Unity)
+ - Java Web Servers and Applications
+ - Python (General App Development and AI - search algorithms, ML with focus on RL and DL)
+ - Arduino Programming in C++ (Software Development w/ Circuits) 
+ - Data Science
+ - Database management through SQL
+ - App Development
+ - Mixed Reality
+ - Software Design
+
+I've got programming experience in the following languages:
+- Java
+- Python
+- C++
+- C#
+- PHP
+- JavaScript
+- HTML / CSS
+- MySQL
+- Kotlin
